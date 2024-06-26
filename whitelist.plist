@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>ca.bomberfish.Whitelist1</string>
+				<string>ca.bomberfish.Whitelist</string>
 				<key>bundle-version</key>
 				<string>1.1.0</string>
 				<key>kind</key>
